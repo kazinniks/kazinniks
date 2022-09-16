@@ -1,17 +1,17 @@
 ### Welcome! 👋
 
-<!--
-**kazinniks/kazinniks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Sophia Kazinnik. I work on applying natural language processing and machine learning methods to problems in economics and finance.
+My github profile contains several projects, such as:
 
-Here are some ideas to get you started:
+⋅⋅* Fed Chair Facial Expressions\
+⋅⋅* 10-K Scraping\
+⋅⋅* Semantic Similarity with Bert
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## My LinkedIn profile ![](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+You can learn more about my work here:\
+[Website](https://sites.google.com/view/skazinnik)\
+[LinkedIn](https://www.linkedin.com/in/sophiakazinnik/)\
+[Google Scholar](https://scholar.google.com/citations?user=VpZL95EAAAAJ&hl=en&oi=ao)
+___________________________________________________
+Cheers!
+ 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
