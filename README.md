@@ -15,4 +15,4 @@ You can learn more about my work here:\
 ___________________________________________________
 Cheers!
  
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Happy Ben")
+![alt text](https://user-images.githubusercontent.com/68412592/192054634-39395cd4-471c-4628-8b3f-fb2c697a2ef5.png "Happy Ben")
